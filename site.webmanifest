@@ -1,0 +1,19 @@
+{
+    "name": "Manhwa DxD PRO",
+    "short_name": "Manhwa DxD PRO",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-Ey_tFmQjupg/YEKioJgpJjI/AAAAAAAAA0E/pXLGX9XBIiMaG1cxFhNKoYK9ED9x9-cSgCNcBGAsYHQ/s0/LOGO%2BYUMI.jpg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-Ey_tFmQjupg/YEKioJgpJjI/AAAAAAAAA0E/pXLGX9XBIiMaG1cxFhNKoYK9ED9x9-cSgCNcBGAsYHQ/s0/LOGO%2BYUMI.jpg",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#050c12",
+    "background_color": "#050c12",
+    "display": "standalone"
+}
